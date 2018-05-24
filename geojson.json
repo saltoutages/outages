@@ -2,6 +2,15 @@
   "outages": [
     {
       "affected_area": null,
+      "city": "Luzern",
+      "end_date": null,
+      "lat": 47.05125758274154,
+      "lng": 8.297267286677805,
+      "network": [ "4G" ],
+      "start_date": "2018-05-24T10:20:00.170Z"
+    },
+    {
+      "affected_area": null,
       "city": "Zurich",
       "end_date": "2018-05-24T16:00:00Z",
       "lat": 47.39919599657373,
