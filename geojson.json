@@ -2,6 +2,15 @@
   "outages": [
     {
       "affected_area": null,
+      "city": "Bern",
+      "end_date": null,
+      "lat": 46.94856738647747,
+      "lng": 7.449401591545388,
+      "network": [ "2G" ],
+      "start_date": "2018-06-23T06:45:00.160Z"
+    },
+    {
+      "affected_area": null,
       "city": "GENEVE",
       "end_date": null,
       "lat": 46.20420405340523,
