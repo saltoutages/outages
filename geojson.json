@@ -2,6 +2,15 @@
   "outages": [
     {
       "affected_area": null,
+      "city": "Wittenbach",
+      "end_date": null,
+      "lat": 47.462729554975446,
+      "lng": 9.388533347455104,
+      "network": [ "3G" ],
+      "start_date": "2019-08-15T19:46:00.390Z"
+    },
+    {
+      "affected_area": null,
       "city": "Mellingen",
       "end_date": null,
       "lat": 47.42832106279452,
