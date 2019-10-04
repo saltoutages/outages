@@ -2,6 +2,15 @@
   "outages": [
     {
       "affected_area": null,
+      "city": "Biel",
+      "end_date": "2019-10-04T16:00:00Z",
+      "lat": 47.13257871266149,
+      "lng": 7.240218732982697,
+      "network": [ "2G", "3G" ],
+      "start_date": "2019-10-04T06:00:00Z"
+    },
+    {
+      "affected_area": null,
       "city": "Fluelen",
       "end_date": null,
       "lat": 46.8953957738236,
