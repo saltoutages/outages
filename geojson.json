@@ -43,16 +43,7 @@
       "lat": 46.50598104953577,
       "lng": 6.708888811680529,
       "network": [ "2G", "3G", "4G" ],
-      "start_date": "2019-10-08T15:21:00.260Z"
-    },
-    {
-      "affected_area": null,
-      "city": "Fluelen",
-      "end_date": null,
-      "lat": 46.8953957738236,
-      "lng": 8.627306986752679,
-      "network": [ "2G" ],
-      "start_date": "2019-10-03T22:32:00.220Z"
+      "start_date": "2019-10-08T15:19:00.170Z"
     },
     {
       "affected_area": null,
