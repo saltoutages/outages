@@ -47,15 +47,6 @@
     },
     {
       "affected_area": null,
-      "city": "Rapperswil",
-      "end_date": null,
-      "lat": 47.22917435425904,
-      "lng": 8.82085064317385,
-      "network": [ "2G" ],
-      "start_date": "2020-06-09T13:17:00.430Z"
-    },
-    {
-      "affected_area": null,
       "city": "Rotkreuz",
       "end_date": null,
       "lat": 47.152534418673824,
