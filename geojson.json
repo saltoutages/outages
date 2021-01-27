@@ -2,6 +2,15 @@
   "outages": [
     {
       "affected_area": null,
+      "city": "Bubikon",
+      "end_date": null,
+      "lat": 47.26817,
+      "lng": 8.81886,
+      "network": [ "3G" ],
+      "start_date": "2021-01-27T05:32:00.170Z"
+    },
+    {
+      "affected_area": null,
       "city": "Zurich",
       "end_date": null,
       "lat": 47.36826,
