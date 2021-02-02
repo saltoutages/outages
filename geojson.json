@@ -83,15 +83,6 @@
     },
     {
       "affected_area": null,
-      "city": "Wolfhalden",
-      "end_date": null,
-      "lat": 47.45544,
-      "lng": 9.55196,
-      "network": [ "3G", "4G" ],
-      "start_date": "2021-01-26T11:51:00.550Z"
-    },
-    {
-      "affected_area": null,
       "city": "Zurich",
       "end_date": null,
       "lat": 47.37636,
