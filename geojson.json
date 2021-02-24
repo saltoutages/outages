@@ -11,15 +11,6 @@
     },
     {
       "affected_area": null,
-      "city": "Lommenschwil",
-      "end_date": null,
-      "lat": 47.49525,
-      "lng": 9.35351,
-      "network": [ "2G" ],
-      "start_date": "2021-02-23T20:45:00.210Z"
-    },
-    {
-      "affected_area": null,
       "city": "G\u00fcmligen",
       "end_date": null,
       "lat": 46.93298,
