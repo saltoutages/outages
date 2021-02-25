@@ -2,15 +2,6 @@
   "outages": [
     {
       "affected_area": null,
-      "city": "Chene-Bourg",
-      "end_date": null,
-      "lat": 46.19511,
-      "lng": 6.19277,
-      "network": [ "3G", "4G" ],
-      "start_date": "2021-02-25T17:37:00.460Z"
-    },
-    {
-      "affected_area": null,
       "city": "G\u00fcmligen",
       "end_date": null,
       "lat": 46.93298,
