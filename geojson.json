@@ -101,15 +101,6 @@
     },
     {
       "affected_area": null,
-      "city": "Zurich",
-      "end_date": null,
-      "lat": 47.37626,
-      "lng": 8.53468,
-      "network": [ "4G" ],
-      "start_date": "2021-01-27T00:33:00.530Z"
-    },
-    {
-      "affected_area": null,
       "city": "Aarburg",
       "end_date": null,
       "lat": 47.3206,
