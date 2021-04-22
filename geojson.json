@@ -22,15 +22,6 @@
       "affected_area": null,
       "city": "Z\u00fcrich",
       "end_date": null,
-      "lat": 47.36657,
-      "lng": 8.53628,
-      "network": [ "3G" ],
-      "start_date": "2021-04-21T06:00:00Z"
-    },
-    {
-      "affected_area": null,
-      "city": "Z\u00fcrich",
-      "end_date": null,
       "lat": 47.34412,
       "lng": 8.53021,
       "network": [ "3G" ],
@@ -62,15 +53,6 @@
       "lng": 6.63552,
       "network": [ "3G", "4G" ],
       "start_date": "2021-04-19T07:27:00.140Z"
-    },
-    {
-      "affected_area": null,
-      "city": "Bern",
-      "end_date": null,
-      "lat": 46.94845,
-      "lng": 7.44712,
-      "network": [ "3G", "4G" ],
-      "start_date": "2021-04-17T13:39:00.210Z"
     },
     {
       "affected_area": null,
